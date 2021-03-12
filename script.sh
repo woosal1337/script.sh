@@ -21,3 +21,6 @@ sudo snap install termius-app
 # System Monitor Tool
 sudo snap install gnome-system-monitor
 
+# Update and Upgrade at the end
+sudo apt-get update
+sudo apt-get upgrade
